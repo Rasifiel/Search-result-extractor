@@ -1,0 +1,11 @@
+http://auto.yandex.ru/search.xml?state=NEW&state=USED&vendor_id=0&price_from=&price_to=&currency=RUR&year_from=&year_to=&color=&km_age_to=&displacement_from=&displacement_to=&engine_type=&climate=&airbag=
+http://rabota.yandex.ru/search.xml?job_industry=275
+http://realty.yandex.ru/search.xml?type=RENT&category=APARTMENT&roomsOffered=2&exceptNewFlat=YES&currency=RUR&priceType=PER_OFFER&rentTime=LARGE&selectedRegionId=213
+http://msk.allcafe.ru/restaurants
+http://www.gastronom.ru/rst_search.aspx?srch=1&tp=2
+http://www.restoranov.net/index.php?page_id=11&action=search&sDocID=43284&page=1&SortBy=name
+http://www.afisha.ru/msk/restaurants/restaurant_list/page2/sortbyrating/
+http://www.restoran.ru/msk/catalog/restaurants/all/?page=1
+http://www.menunsk.ru/places.php?action=a&a=tip&a_id=1&page=1
+http://www.restopad.ru/spb/catalog/restaurants/all/?page=2
+http://uslugi.yandex.ru/banki/deposits/search.xml?sum=100000&currency=1&period=4&pensionary=0&restrictions=0
