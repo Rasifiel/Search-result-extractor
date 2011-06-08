@@ -1,0 +1,14 @@
+#Build
+Use ant dist, to create binaries
+
+#Run
+Use run.cmd or run.sh
+
+#Usage
+Usage: run [{-o,--output} output_file] [{--mincnt} min_count] [{--threshold} threshold] url
+
+Where:
+output_file - file where output will be stored. STDOUT by default.
+min_count - minimal children count for node to be selected. 4 by default.
+threshold - threshold of equality methric for node to be selected. 0.8 by default.
+url - url for document.
